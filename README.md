@@ -1,4 +1,5 @@
-# Superheroes of Scraping: Scrapy, Splash, and Docker
+# Superheroes of Scraping: 
+# Scrapy, Splash, and Docker
 
 This is a Scrapy file structure with settings that allow you to scrape anything you can see on a web browser AND any Javascript (JS can be particularly evasive content for basic web scraping programs).
 
